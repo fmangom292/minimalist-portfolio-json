@@ -1,0 +1,314 @@
+{
+    "basics": {
+        "name": "Fernando Manjón-Cabeza Gómez",
+        "label": "Desarrollador Front-End | Angular ",
+        "image": "https://avatars.githubusercontent.com/u/116214571",
+        "email": "fmangom292@gmail.com",
+        "phone": "690 39 02 13",
+        "url": "https://johndoe.com",
+        "summary": "Desarrollador Front-end con experiencia en Angular. Apasionado por la tecnología y la programación. Me encanta aprender y compartir conocimientos. Actuelmente estudiando nuevos frameworks y tecnologías.",
+        "location": {
+            "address": "Camino de los Poleares, 48",
+            "postalCode": "14900",
+            "city": "Lucena",
+            "countryCode": "ES",
+            "region": "Córdoba"
+        },
+        "profiles": [
+            {
+                "network": "LinkedIn",
+                "username": "fmangomcabeza",
+                "url": "https://www.linkedin.com/in/fmanjoncabeza/"
+            },
+            {
+                "network": "GitHub",
+                "username": "fmangom292",
+                "url": "https://github.com/fmangom292"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "MLG Diseño, S.L.",
+            "position": "Desarrollador de aplicaciones web (Prácticas)",
+            "url": "",
+            "startDate": "2019-05-01",
+            "endDate": "2021-06-01",
+            "summary": "Desarrollo y diseño de aplicaciones web y bases de datos.",
+            "highlights": [
+                "Gestión y diseño de bases de datos (MySQL).",
+                "Diseño web y programación frontend (HTML, CSS, JavaScript, Ionic, Angular).",
+                "Desarrollo backend con PHP y Java (SpringBoot).",
+                "Diseño y desarrollo de una aplicación móvil con Ionic y PHP."
+            ]
+        },
+        {
+            "name": "Cima Cableados Industriales, S.L.",
+            "position": "Desarrollador aplicación web de gestión interna",
+            "url": "",
+            "startDate": "2021-12-01",
+            "endDate": "2022-10-01",
+            "summary": "Mantenimiento y desarrollo de nuevas funcionalidades para una app web interna.",
+            "highlights": [
+                "Mantenimiento de aplicación web interna (PHP, CodeIgniter 3).",
+                "Desarrollo de nuevas funcionalidades y creación de aplicaciones a medida (Angular + CodeIgniter 4).",
+                "Gestión de procesos, albaranes, pedidos, órdenes de fabricación y estado de producción.",
+                "Optimización de consultas en el sistema de contabilidad.",
+                "Gestión de incidencias y no conformidades."
+            ]
+        },
+        {
+            "name": "NTT Data (Proyecto: Orange)",
+            "position": "Desarrollador Web",
+            "url": "",
+            "startDate": "2022-10-01",
+            "endDate": "2023-09-01",
+            "summary": "Desarrollo y mantenimiento de funcionalidades en el panel de usuario de Orange.",
+            "highlights": [
+                "Desarrollo de nuevas funcionalidades (AngularJS / Angular 12).",
+                "Mantenimiento y actualización de componentes existentes.",
+                "Refactorización de código y pruebas unitarias."
+            ]
+        },
+        {
+            "name": "Proxya",
+            "position": "Desarrollador Web",
+            "url": "",
+            "startDate": "2023-09-01",
+            "endDate": "2024-01-01",
+            "summary": "Desarrollo y mantenimiento de aplicaciones en Angular 16+.",
+            "highlights": [
+                "Desarrollo de nuevos componentes en Angular 16+.",
+                "Mantenimiento y mejora de la funcionalidad existente.",
+                "Refactorización de código y pruebas unitarias."
+            ]
+        },
+        {
+            "name": "CDI Sistemas",
+            "position": "Desarrollador Web",
+            "url": "",
+            "startDate": "2024-06-01",
+            "endDate": "2024-08-01",
+            "summary": "Desarrollo de sitios web y tiendas online con Wordpress y Prestashop.",
+            "highlights": [
+                "Desarrollo de nuevos sitios web con Wordpress.",
+                "Creación de tiendas web en Prestashop.",
+                "Mantenimiento y mejora del sistema integral de gestión para PYMES.",
+                "Refactorización de código y pruebas unitarias."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Universidad de Málaga (UMA)",
+            "url": "https://www.uma.es/",
+            "area": "Ingeniería Informática",
+            "studyType": "Grado (No finalizado)",
+            "startDate": "2019-09-01",
+            "endDate": "2021-06-01",
+            "score": "",
+            "courses": [
+                "Diseño de páginas web",
+                "Diseño y gestión de bases de datos",
+                "Programación orientada a objetos",
+                "Desarrollo con Angular y AngularJS"
+            ]
+        },
+        {
+            "institution": "I.E.S. Marqués de Comares",
+            "url": "",
+            "area": "Sistemas Microinformáticos y Redes",
+            "studyType": "Ciclo Formativo de Grado Medio",
+            "startDate": "2015-09-01",
+            "endDate": "2017-06-01",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "I.E.S. Marqués de Comares",
+            "url": "",
+            "area": "Desarrollo de Aplicaciones Web",
+            "studyType": "Ciclo Formativo de Grado Superior",
+            "startDate": "2017-09-01",
+            "endDate": "2019-06-01",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "Udemy",
+            "url": "https://www.udemy.com/",
+            "area": "Desarrollo Web",
+            "studyType": "Curso Online",
+            "startDate": "2024-09-01",
+            "endDate": "2024-09-15",
+            "score": "",
+            "courses": [
+                "Desarrollo de Temas y Plugins de Wordpress (10.5h)"
+            ]
+        },
+        {
+            "institution": "Udemy",
+            "url": "https://www.udemy.com/",
+            "area": "Docker",
+            "studyType": "Curso Online",
+            "startDate": "2024-09-01",
+            "endDate": "2024-09-15",
+            "score": "",
+            "courses": [
+                "Ultimate Docker (5.5h)"
+            ]
+        },
+        {
+            "institution": "Udemy",
+            "url": "https://www.udemy.com/",
+            "area": "Desarrollo Backend",
+            "studyType": "Curso Online",
+            "startDate": "2024-10-01",
+            "endDate": "2024-10-15",
+            "score": "",
+            "courses": [
+                "Spring Framework 6 & Spring Boot 3 (40.5h)"
+            ]
+        },
+        {
+            "institution": "midu.dev",
+            "url": "https://midu.dev/",
+            "area": "Desarrollo Backend",
+            "studyType": "Curso Online",
+            "startDate": "2024-11-01",
+            "endDate": "2024-11-15",
+            "score": "",
+            "courses": [
+                "NodeJS (5h)"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "certificates": [
+        {
+            "name": "B2 inglés",
+            "date": "",
+            "issuer": "Cambridge English",
+            "url": ""
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "url": "https://publication.com",
+            "summary": "Description…"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Angular",
+            "level": "Alto",
+            "keywords": [
+                "Front-end",
+                "CSS",
+                "JavaScript",
+                "Typescript",
+                "Pruebas e2e",
+                "Pruebas unitarias"
+
+            ]
+        },
+        {
+            "name": "Java",
+            "level": "Medio",
+            "keywords": [
+                "Back-end",
+                "Microservicios",
+                "Servidor",
+                "Spring Boot",
+                "Pruebas unitarias",
+                "jUnit"
+            ]
+        },
+        {
+            "name": "Desarrollo Web",
+            "level": "Alto",
+            "keywords": [
+                "Front-end",
+                "Back-end",
+                "CSS"
+            ]
+        },
+        {
+            "name": "Node.js",
+            "level": "Medio",
+            "keywords": [
+                "Back-end",
+                "Express",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "MySQL",
+            "level": "Alto",
+            "keywords": [
+                "Base de datos",
+                "BBDD Relacional"
+            ]
+        },
+        {
+            "name": "PHP",
+            "level": "Alto",
+            "keywords": [
+                "Laravel",
+                "Back-end"
+            ]
+        }
+
+
+
+
+
+
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "B2"
+        },
+        {
+            "language": "Español",
+            "fluency": "Nativo"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Videojuegos",
+            "keywords": [
+                "Desarrollo"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference…"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Chat-bot",
+            "startDate": "2025-02-20",
+            "endDate": "2025-02-25",
+            "description": "Pequeña app para investigar el uso de modelos IA en aplicaciones web, lo especial de este pequeño proyecto es que el modelo se carga en el cliente, por lo que no se necesita un gran servidor para su funcionamiento",
+            "highlights": [
+                "IA"
+            ],
+            "url": "https://github.com/fmangom292/ChatBot"
+        }
+    ]
+}
