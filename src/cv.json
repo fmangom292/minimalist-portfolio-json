@@ -327,10 +327,10 @@
             "endDate": "2025-02",
             "description": "Página creada con Astro para mostrar un CV minimalista y sencillo editable solo con modificar un archivo JSON, con un diseño limpio y claro, y con la posibilidad de descargarlo en PDF.",
             "highlights": [
-                "IA",
-                "Chat",
-                "Bot",
-                "Asistente"
+                "CV",
+                "Minimalista",
+                "Fácil de editar",
+                "Astro"
             ],
             "url": "https://github.com/fmangom292/ChatBot"
         }
