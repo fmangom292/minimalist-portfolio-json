@@ -2,46 +2,7 @@
 
 Este es un proyecto de portafolio minimalista creado con Astro como primer contacto con el framework. El portafolio es fácil de editar modificando un archivo JSON, y tiene un diseño limpio y claro con la posibilidad de descargarlo en PDF.
 
-## 🚀 Estructura del Proyecto
-
-Dentro de tu proyecto Astro, verás las siguientes carpetas y archivos:
-
-/
-├── public/
-│   └── favicon.svg
-├── src/
-│   ├── components/
-│   │   ├── icons/
-│   │   │   ├── [GitHub.astro]
-│   │   │   ├── [LinkedIn.astro]
-│   │   │   ├── [Mail.astro]
-│   │   │   ├── [Phone.astro]
-│   │   │   ├── [Printer.astro]
-│   │   │   ├── [WorldMap.astro]
-│   │   │   └── [X.astro]
-│   │   ├── sections/
-│   │   │   ├── [About.astro]
-│   │   │   ├── [Education.astro]
-│   │   │   ├── [Experience.astro]
-│   │   │   ├── [Hero.astro]
-│   │   │   ├── [Projects.astro]
-│   │   │   └── [Skills.astro]
-│   │   ├── [KeyboardManager.astro]
-│   │   └── [Section.astro]
-│   ├── layouts/
-│   │   └── [Layout.astro]
-│   ├── pages/
-│   │   └── [index.astro]
-│   └── [cv.json]
-├── .astro/
-├── .vscode/
-│   ├── [extensions.json]
-│   └── [launch.json]
-├── .gitignore
-├── [astro.config.mjs]
-├── [package.json]
-├── [README.md]
-└── [tsconfig.json]
+<img src="./git_files/Screenshot_CV.png">
 
 🧞 Comandos
 Todos los comandos se ejecutan desde la raíz del proyecto, desde una terminal:
