@@ -7,26 +7,54 @@ Este es un proyecto de portafolio minimalista creado con Astro como primer conta
 🧞 Comandos
 Todos los comandos se ejecutan desde la raíz del proyecto, desde una terminal:
 
-Comando	Acción
-npm install	Instala las dependencias
-npm run dev	Inicia el servidor de desarrollo en localhost:4321
-npm run build	Construye el sitio de producción en ./dist/
-npm run preview	Previsualiza tu construcción localmente
-npm run astro ...	Ejecuta comandos CLI como astro add, astro check
-npm run astro -- --help	Obtén ayuda usando el CLI de Astro
+<table>
+  <thead>
+    <td>Comando</td>
+    <td>Acción</td>
+  </thead>
+  <tr>
+    <td>npm install</td>
+    <td>Instala las dependencias</td>
+  </tr>
+  <tr>
+    <td>npm run dev</td>
+    <td>Inicia el servidor de desarrollo en localhost:4321</td>
+  </tr>
+  <tr>
+    <td>npm run build</td>
+    <td>Construye el sitio de producción en ./dist/</td>
+  </tr>
+  <tr>
+    <td>npm run preview</td>
+    <td>Previsualiza tu construcción localmente</td>
+  </tr>
+  <tr>
+    <td>npm run astro ...</td>
+    <td>Ejecuta comandos CLI como astro add, astro check</td>
+  </tr>
+</table>	
 
-📄 Configuración
-cv.json
+  <hr/>
+
+📄 Configuración<br>
+cv.json<br>
 El archivo cv.json contiene toda la información del portafolio, como el nombre, la etiqueta, la imagen, la ubicación, los perfiles sociales, la experiencia laboral, la educación, las habilidades, etc. Puedes editar este archivo para actualizar la información mostrada en el portafolio.
 
-🛠️ Componentes
-Los componentes están organizados en la carpeta src/components. Cada sección del portafolio es un componente separado en la carpeta sections. Los íconos están en la carpeta icons.
+<hr/>
 
-💻 Layout
-El archivo src/layouts/Layout.astro define el diseño general del sitio.
+🛠️ Componentes <br>
+Los componentes están organizados en la carpeta src/components. Cada sección del portafolio es un componente separado en la carpeta sections. Los íconos están en la carpeta icons.<br>
 
+<hr/>
 
-📄 Inspiraciones
+💻 Layout<br>
+El archivo src/layouts/Layout.astro define el diseño general del sitio.<br>
+
+<hr/>
+
+📄 Inspiraciones<br>
 Este proyecto está inspirado en la idea de <a href="https://jsonresume.org/schema/">jsonresume.org</a>
-
 Este proyecto utiliza las bases de <a href="https://github.com/midudev/minimalist-portfolio-json">Midudev</a>
+
+🔑 Licencia <br>
+MIT - Creado por fmangom292.
