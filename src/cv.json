@@ -1,14 +1,14 @@
 {
     "basics": {
         "name": "Fernando Manjón-Cabeza Gómez",
-        "label": "Desarrollador Front-End | Angular ",
+        "label": "Desarrollador Front-End | Angular | Apasionado por la tecnología y la programación desde siempre. En proceso de aprendizaje Full-Stack Angular - Node.js.",
         "image": "https://avatars.githubusercontent.com/u/116214571",
         "email": "fmangom292@gmail.com",
         "phone": "690 39 02 13",
         "url": "https://johndoe.com",
-        "summary": "Desarrollador Front-end con experiencia en Angular. Apasionado por la tecnología y la programación. Me encanta aprender y compartir conocimientos. Actuelmente estudiando nuevos frameworks y tecnologías.",
+        "summary": "Desarrollador Front-end con experiencia en Angular. He formado parte de grandes equipos con los que he aprendido mucho y he aportado mi granito de arena. Me encanta la tecnología y la programación, y siempre estoy dispuesto a aprender cosas nuevas. Actualmente estoy aprendiendo Node.js y Java como tecnologías de backend, a la vez que Astro y React como frontend para completar mi formación Full-Stack.",
         "location": {
-            "address": "Camino de los Poleares, 48",
+            "address": "",
             "postalCode": "14900",
             "city": "Lucena",
             "countryCode": "ES",
@@ -16,14 +16,14 @@
         },
         "profiles": [
             {
-                "network": "LinkedIn",
-                "username": "fmangomcabeza",
-                "url": "https://www.linkedin.com/in/fmanjoncabeza/"
-            },
-            {
                 "network": "GitHub",
                 "username": "fmangom292",
                 "url": "https://github.com/fmangom292"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "fmangomcabeza",
+                "url": "https://www.linkedin.com/in/fmanjoncabeza/"
             }
         ]
     },
@@ -34,7 +34,7 @@
             "url": "",
             "startDate": "2019-05-01",
             "endDate": "2021-06-01",
-            "summary": "Desarrollo y diseño de aplicaciones web y bases de datos.",
+            "summary": "Desarrollo y diseño de aplicaciones web y bases de datos. Entre mis funciones destacan la gestión y diseño de bases de datos, el diseño web y la programación frontend, el desarrollo backend con PHP y Java, y el diseño y desarrollo de una aplicación móvil con Ionic y PHP.",
             "highlights": [
                 "Gestión y diseño de bases de datos (MySQL).",
                 "Diseño web y programación frontend (HTML, CSS, JavaScript, Ionic, Angular).",
@@ -48,7 +48,7 @@
             "url": "",
             "startDate": "2021-12-01",
             "endDate": "2022-10-01",
-            "summary": "Mantenimiento y desarrollo de nuevas funcionalidades para una app web interna.",
+            "summary": "Mantenimiento y desarrollo de nuevas funcionalidades para una app web interna. Entre mis funciones destacan el mantenimiento de la aplicación web interna (PHP, CodeIgniter 3), el desarrollo de nuevas funcionalidades para la misma mientras en paralelo desarrollaba aplicaciones a medida (Angular + CodeIgniter 4), la gestión de procesos, albaranes, pedidos, órdenes de fabricación y estado de producción, la optimización de consultas en el sistema de contabilidad y la gestión de incidencias y no conformidades.",
             "highlights": [
                 "Mantenimiento de aplicación web interna (PHP, CodeIgniter 3).",
                 "Desarrollo de nuevas funcionalidades y creación de aplicaciones a medida (Angular + CodeIgniter 4).",
@@ -63,7 +63,7 @@
             "url": "",
             "startDate": "2022-10-01",
             "endDate": "2023-09-01",
-            "summary": "Desarrollo y mantenimiento de funcionalidades en el panel de usuario de Orange.",
+            "summary": "Desarrollo y mantenimiento de funcionalidades en el panel de empleado de Orange. Entre mis funciones destacan el desarrollo de nuevas funcionalidades (AngularJS / Angular 12), el mantenimiento y actualización de componentes existentes, la refactorización de código, las pruebas unitarias, pruebas end to end (e2e) y despliegues a producción junto un gran equipo.",
             "highlights": [
                 "Desarrollo de nuevas funcionalidades (AngularJS / Angular 12).",
                 "Mantenimiento y actualización de componentes existentes.",
@@ -76,7 +76,7 @@
             "url": "",
             "startDate": "2023-09-01",
             "endDate": "2024-01-01",
-            "summary": "Desarrollo y mantenimiento de aplicaciones en Angular 16+.",
+            "summary": "Desarrollo y mantenimiento de aplicaciones en Angular 16+. Entre mis funciones destacan el desarrollo de nuevos componentes, el mantenimiento y mejora de la funcionalidad existente, la refactorización de código, las pruebas unitarias y gestión y resolución de tickets generados por cliente para resolver problemas en la aplicación.",
             "highlights": [
                 "Desarrollo de nuevos componentes en Angular 16+.",
                 "Mantenimiento y mejora de la funcionalidad existente.",
@@ -89,7 +89,7 @@
             "url": "",
             "startDate": "2024-06-01",
             "endDate": "2024-08-01",
-            "summary": "Desarrollo de sitios web y tiendas online con Wordpress y Prestashop.",
+            "summary": "Desarrollo de sitios web y tiendas online con Wordpress y Prestashop. Entre mis funciones destacan el desarrollo de nuevos sitios web con Wordpress, la creación de tiendas web en Prestashop, el mantenimiento y mejora del sistema integral de gestión para PYMES, la refactorización de código y pruebas unitarias.",
             "highlights": [
                 "Desarrollo de nuevos sitios web con Wordpress.",
                 "Creación de tiendas web en Prestashop.",
@@ -117,20 +117,20 @@
         {
             "institution": "I.E.S. Marqués de Comares",
             "url": "",
-            "area": "Sistemas Microinformáticos y Redes",
-            "studyType": "Ciclo Formativo de Grado Medio",
-            "startDate": "2015-09-01",
-            "endDate": "2017-06-01",
+            "area": "Desarrollo de Aplicaciones Web",
+            "studyType": "Ciclo Formativo de Grado Superior",
+            "startDate": "2017-09-01",
+            "endDate": "2019-06-01",
             "score": "",
             "courses": []
         },
         {
             "institution": "I.E.S. Marqués de Comares",
             "url": "",
-            "area": "Desarrollo de Aplicaciones Web",
-            "studyType": "Ciclo Formativo de Grado Superior",
-            "startDate": "2017-09-01",
-            "endDate": "2019-06-01",
+            "area": "Sistemas Microinformáticos y Redes",
+            "studyType": "Ciclo Formativo de Grado Medio",
+            "startDate": "2015-09-01",
+            "endDate": "2017-06-01",
             "score": "",
             "courses": []
         },
@@ -267,6 +267,14 @@
                 "Laravel",
                 "Back-end"
             ]
+        },
+        {
+            "name": "TypeScript",
+            "level": "Alto",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]            
         }
 
 
@@ -306,7 +314,23 @@
             "endDate": "2025-02-25",
             "description": "Pequeña app para investigar el uso de modelos IA en aplicaciones web, lo especial de este pequeño proyecto es que el modelo se carga en el cliente, por lo que no se necesita un gran servidor para su funcionamiento",
             "highlights": [
-                "IA"
+                "IA",
+                "Chat",
+                "Bot",
+                "Asistente"
+            ],
+            "url": "https://github.com/fmangom292/ChatBot"
+        },
+        {
+            "name": "CV Minimalista",
+            "startDate": "2025-03",
+            "endDate": "2025-02",
+            "description": "Página creada con Astro para mostrar un CV minimalista y sencillo editable solo con modificar un archivo JSON, con un diseño limpio y claro, y con la posibilidad de descargarlo en PDF.",
+            "highlights": [
+                "IA",
+                "Chat",
+                "Bot",
+                "Asistente"
             ],
             "url": "https://github.com/fmangom292/ChatBot"
         }
