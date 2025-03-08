@@ -275,7 +275,80 @@
                 "Node.js",
                 "Angular"
             ]            
+        },
+        {
+            "name": "Jira",
+            "level": "Alto",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]            
+        },
+        {
+            "name": "Jest",
+            "level": "Alto",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]            
+        },
+        {
+            "name": "JUnit",
+            "level": "Alto",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]            
+        },
+        {
+            "name": "Jenkins",
+            "level": "Alto",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]            
+        },
+        {
+            "name": "VSCode",
+            "level": "Alto",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]            
+        },
+        {
+            "name": "Astro",
+            "level": "Alto",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]            
+        },
+        {
+            "name": "Laravel",
+            "level": "Alto",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]            
+        },
+        {
+            "name": "Express",
+            "level": "Alto",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]            
+        },
+        {
+            "name": "Full-Stack",
+            "level": "Alto",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]            
         }
+
 
 
 
