@@ -5,7 +5,7 @@ import Section from "./Section.astro";
 
 <Section>
     <button class="print-button" onclick="window.print()">
-        <span class="no-print-text">!Pulsa aquí para imprimir este CV!</span>
+        <span class="no-print-text">¡Pulsa aquí para imprimir este CV!</span>
         <span class="print-text">Consigue mi currículum actualizado en www.fmangom.es</span>
     </button>
 </Section>
@@ -21,7 +21,7 @@ import Section from "./Section.astro";
         cursor: pointer;
     }
     .print-button:hover {
-        background-color: #777777;
+        background-color: var(--li-hover);
     }
     .print-button:active {
         background-color: #777;
