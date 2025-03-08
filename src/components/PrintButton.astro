@@ -4,7 +4,10 @@ import Section from "./Section.astro";
 ---
 
 <Section>
-    <button class="print-button" onclick="window.print()">!Pulsa aquí para imprimir este CV!</button>
+    <button class="print-button" onclick="window.print()">
+        <span class="no-print-text">!Pulsa aquí para imprimir este CV!</span>
+        <span class="print-text">Consigue mi currículum actualizado en www.fmangom.es</span>
+    </button>
 </Section>
 
 <style>
@@ -39,9 +42,25 @@ import Section from "./Section.astro";
     .print-button:disabled:focus {
         outline: none;
     }
+    .print-button span {
+        font-size: 1.5rem;
+        font-weight: 700;
+        color: #333;
+    }
+    .no-print-text{
+        display: block;
+    }
+
+    .print-text{
+        display: none;
+    }
+
     @media print {
-        .print-button {
+        .no-print-text {
             display: none;
+        }
+        .print-text{
+            display: block;
         }
     }
 </style>
