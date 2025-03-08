@@ -5,8 +5,8 @@
         "image": "https://avatars.githubusercontent.com/u/116214571",
         "email": "fmangom292@gmail.com",
         "phone": "690 39 02 13",
-        "url": "https://johndoe.com",
-        "summary": "Desarrollador Front-end con experiencia en Angular. He formado parte de grandes equipos con los que he aprendido mucho y he aportado mi granito de arena. Me encanta la tecnología y la programación, y siempre estoy dispuesto a aprender cosas nuevas. Actualmente estoy aprendiendo Node.js y Java como tecnologías de backend, a la vez que Astro y React como frontend para completar mi formación Full-Stack.",
+        "url": "https://www.fmangom.es",
+        "summary": "Desarrollador Front-end con experiencia en Angular. He formado parte de grandes equipos con los que he aprendido mucho y he aportado mi granito de arena. Me encanta la tecnología y la programación, y siempre estoy dispuesto a aprender cosas nuevas. Actualmente estoy aprendiendo Node.js y Java como tecnologías de backend, a la vez que Astro y React como frontend para completar mi formación Full-Stack. Poseo permiso de conducir B2, vehículo propio y disponibilidad geográfica completa.",
         "location": {
             "address": "",
             "postalCode": "14900",
@@ -29,17 +29,43 @@
     },
     "work": [
         {
-            "name": "MLG Diseño, S.L.",
-            "position": "Desarrollador de aplicaciones web (Prácticas)",
+            "name": "CDI Sistemas",
+            "position": "Desarrollador Web",
             "url": "",
-            "startDate": "2019-05-01",
-            "endDate": "2021-06-01",
-            "summary": "Desarrollo y diseño de aplicaciones web y bases de datos. Entre mis funciones destacan la gestión y diseño de bases de datos, el diseño web y la programación frontend, el desarrollo backend con PHP y Java, y el diseño y desarrollo de una aplicación móvil con Ionic y PHP.",
+            "startDate": "2024-06-01",
+            "endDate": "2024-08-01",
+            "summary": "Desarrollo de sitios web y tiendas online con Wordpress y Prestashop. Entre mis funciones destacan el desarrollo de nuevos sitios web con Wordpress, la creación de tiendas web en Prestashop, el mantenimiento y mejora del sistema integral de gestión para PYMES, la refactorización de código y pruebas unitarias.",
             "highlights": [
-                "Gestión y diseño de bases de datos (MySQL).",
-                "Diseño web y programación frontend (HTML, CSS, JavaScript, Ionic, Angular).",
-                "Desarrollo backend con PHP y Java (SpringBoot).",
-                "Diseño y desarrollo de una aplicación móvil con Ionic y PHP."
+                "Desarrollo de nuevos sitios web con Wordpress.",
+                "Creación de tiendas web en Prestashop.",
+                "Mantenimiento y mejora del sistema integral de gestión para PYMES.",
+                "Refactorización de código y pruebas unitarias."
+            ]
+        },
+        {
+            "name": "Proxya",
+            "position": "Desarrollador Web",
+            "url": "",
+            "startDate": "2023-09-01",
+            "endDate": "2024-01-01",
+            "summary": "Desarrollo y mantenimiento de aplicaciones en Angular 16+. Entre mis funciones destacan el desarrollo de nuevos componentes, el mantenimiento y mejora de la funcionalidad existente, la refactorización de código, las pruebas unitarias y gestión y resolución de tickets generados por cliente para resolver problemas en la aplicación.",
+            "highlights": [
+                "Desarrollo de nuevos componentes en Angular 16+.",
+                "Mantenimiento y mejora de la funcionalidad existente.",
+                "Refactorización de código y pruebas unitarias."
+            ]
+        },
+        {
+            "name": "NTT Data (Proyecto: Orange)",
+            "position": "Desarrollador Web",
+            "url": "",
+            "startDate": "2022-10-01",
+            "endDate": "2023-09-01",
+            "summary": "Desarrollo y mantenimiento de funcionalidades en el panel de empleado de Orange. Entre mis funciones destacan el desarrollo de nuevas funcionalidades (AngularJS / Angular 12), el mantenimiento y actualización de componentes existentes, la refactorización de código, las pruebas unitarias, pruebas end to end (e2e) y despliegues a producción junto un gran equipo.",
+            "highlights": [
+                "Desarrollo de nuevas funcionalidades (AngularJS / Angular 12).",
+                "Mantenimiento y actualización de componentes existentes.",
+                "Refactorización de código y pruebas unitarias."
             ]
         },
         {
@@ -58,47 +84,69 @@
             ]
         },
         {
-            "name": "NTT Data (Proyecto: Orange)",
-            "position": "Desarrollador Web",
+            "name": "MLG Diseño, S.L.",
+            "position": "Desarrollador de aplicaciones web (Prácticas)",
             "url": "",
-            "startDate": "2022-10-01",
-            "endDate": "2023-09-01",
-            "summary": "Desarrollo y mantenimiento de funcionalidades en el panel de empleado de Orange. Entre mis funciones destacan el desarrollo de nuevas funcionalidades (AngularJS / Angular 12), el mantenimiento y actualización de componentes existentes, la refactorización de código, las pruebas unitarias, pruebas end to end (e2e) y despliegues a producción junto un gran equipo.",
+            "startDate": "2019-05-01",
+            "endDate": "2021-06-01",
+            "summary": "Desarrollo y diseño de aplicaciones web y bases de datos. Entre mis funciones destacan la gestión y diseño de bases de datos, el diseño web y la programación frontend, el desarrollo backend con PHP y Java, y el diseño y desarrollo de una aplicación móvil con Ionic y PHP.",
             "highlights": [
-                "Desarrollo de nuevas funcionalidades (AngularJS / Angular 12).",
-                "Mantenimiento y actualización de componentes existentes.",
-                "Refactorización de código y pruebas unitarias."
-            ]
-        },
-        {
-            "name": "Proxya",
-            "position": "Desarrollador Web",
-            "url": "",
-            "startDate": "2023-09-01",
-            "endDate": "2024-01-01",
-            "summary": "Desarrollo y mantenimiento de aplicaciones en Angular 16+. Entre mis funciones destacan el desarrollo de nuevos componentes, el mantenimiento y mejora de la funcionalidad existente, la refactorización de código, las pruebas unitarias y gestión y resolución de tickets generados por cliente para resolver problemas en la aplicación.",
-            "highlights": [
-                "Desarrollo de nuevos componentes en Angular 16+.",
-                "Mantenimiento y mejora de la funcionalidad existente.",
-                "Refactorización de código y pruebas unitarias."
-            ]
-        },
-        {
-            "name": "CDI Sistemas",
-            "position": "Desarrollador Web",
-            "url": "",
-            "startDate": "2024-06-01",
-            "endDate": "2024-08-01",
-            "summary": "Desarrollo de sitios web y tiendas online con Wordpress y Prestashop. Entre mis funciones destacan el desarrollo de nuevos sitios web con Wordpress, la creación de tiendas web en Prestashop, el mantenimiento y mejora del sistema integral de gestión para PYMES, la refactorización de código y pruebas unitarias.",
-            "highlights": [
-                "Desarrollo de nuevos sitios web con Wordpress.",
-                "Creación de tiendas web en Prestashop.",
-                "Mantenimiento y mejora del sistema integral de gestión para PYMES.",
-                "Refactorización de código y pruebas unitarias."
+                "Gestión y diseño de bases de datos (MySQL).",
+                "Diseño web y programación frontend (HTML, CSS, JavaScript, Ionic, Angular).",
+                "Desarrollo backend con PHP y Java (SpringBoot).",
+                "Diseño y desarrollo de una aplicación móvil con Ionic y PHP."
             ]
         }
     ],
     "education": [
+        {
+            "institution": "midu.dev",
+            "url": "https://midu.dev/",
+            "area": "Desarrollo Backend",
+            "studyType": "Curso Online",
+            "startDate": "2024-11-01",
+            "endDate": "2024-11-15",
+            "score": "",
+            "courses": [
+                "NodeJS (5h)"
+            ]
+        },
+        {
+            "institution": "Udemy",
+            "url": "https://www.udemy.com/",
+            "area": "Desarrollo Backend",
+            "studyType": "Curso Online",
+            "startDate": "2024-10-01",
+            "endDate": "2024-10-15",
+            "score": "",
+            "courses": [
+                "Spring Framework 6 & Spring Boot 3 (40.5h)"
+            ]
+        },
+        {
+            "institution": "Udemy",
+            "url": "https://www.udemy.com/",
+            "area": "Docker",
+            "studyType": "Curso Online",
+            "startDate": "2024-09-01",
+            "endDate": "2024-09-15",
+            "score": "",
+            "courses": [
+                "Ultimate Docker (5.5h)"
+            ]
+        },
+        {
+            "institution": "Udemy",
+            "url": "https://www.udemy.com/",
+            "area": "Desarrollo Web",
+            "studyType": "Curso Online",
+            "startDate": "2024-09-01",
+            "endDate": "2024-09-15",
+            "score": "",
+            "courses": [
+                "Desarrollo de Temas y Plugins de Wordpress (10.5h)"
+            ]
+        },
         {
             "institution": "Universidad de Málaga (UMA)",
             "url": "https://www.uma.es/",
@@ -133,55 +181,8 @@
             "endDate": "2017-06-01",
             "score": "",
             "courses": []
-        },
-        {
-            "institution": "Udemy",
-            "url": "https://www.udemy.com/",
-            "area": "Desarrollo Web",
-            "studyType": "Curso Online",
-            "startDate": "2024-09-01",
-            "endDate": "2024-09-15",
-            "score": "",
-            "courses": [
-                "Desarrollo de Temas y Plugins de Wordpress (10.5h)"
-            ]
-        },
-        {
-            "institution": "Udemy",
-            "url": "https://www.udemy.com/",
-            "area": "Docker",
-            "studyType": "Curso Online",
-            "startDate": "2024-09-01",
-            "endDate": "2024-09-15",
-            "score": "",
-            "courses": [
-                "Ultimate Docker (5.5h)"
-            ]
-        },
-        {
-            "institution": "Udemy",
-            "url": "https://www.udemy.com/",
-            "area": "Desarrollo Backend",
-            "studyType": "Curso Online",
-            "startDate": "2024-10-01",
-            "endDate": "2024-10-15",
-            "score": "",
-            "courses": [
-                "Spring Framework 6 & Spring Boot 3 (40.5h)"
-            ]
-        },
-        {
-            "institution": "midu.dev",
-            "url": "https://midu.dev/",
-            "area": "Desarrollo Backend",
-            "studyType": "Curso Online",
-            "startDate": "2024-11-01",
-            "endDate": "2024-11-15",
-            "score": "",
-            "courses": [
-                "NodeJS (5h)"
-            ]
         }
+
     ],
     "awards": [
         {
@@ -219,7 +220,6 @@
                 "Typescript",
                 "Pruebas e2e",
                 "Pruebas unitarias"
-
             ]
         },
         {
@@ -274,7 +274,7 @@
             "keywords": [
                 "Node.js",
                 "Angular"
-            ]            
+            ]
         },
         {
             "name": "Jira",
@@ -282,7 +282,7 @@
             "keywords": [
                 "Node.js",
                 "Angular"
-            ]            
+            ]
         },
         {
             "name": "Jest",
@@ -290,7 +290,7 @@
             "keywords": [
                 "Node.js",
                 "Angular"
-            ]            
+            ]
         },
         {
             "name": "JUnit",
@@ -298,7 +298,7 @@
             "keywords": [
                 "Node.js",
                 "Angular"
-            ]            
+            ]
         },
         {
             "name": "Jenkins",
@@ -306,7 +306,7 @@
             "keywords": [
                 "Node.js",
                 "Angular"
-            ]            
+            ]
         },
         {
             "name": "VSCode",
@@ -314,7 +314,7 @@
             "keywords": [
                 "Node.js",
                 "Angular"
-            ]            
+            ]
         },
         {
             "name": "Astro",
@@ -322,7 +322,7 @@
             "keywords": [
                 "Node.js",
                 "Angular"
-            ]            
+            ]
         },
         {
             "name": "Laravel",
@@ -330,7 +330,7 @@
             "keywords": [
                 "Node.js",
                 "Angular"
-            ]            
+            ]
         },
         {
             "name": "Express",
@@ -338,7 +338,7 @@
             "keywords": [
                 "Node.js",
                 "Angular"
-            ]            
+            ]
         },
         {
             "name": "Full-Stack",
@@ -346,24 +346,17 @@
             "keywords": [
                 "Node.js",
                 "Angular"
-            ]            
+            ]
         }
-
-
-
-
-
-
-
     ],
     "languages": [
         {
-            "language": "English",
-            "fluency": "B2"
-        },
-        {
             "language": "Español",
             "fluency": "Nativo"
+        },
+        {
+            "language": "Inglés",
+            "fluency": "B2"
         }
     ],
     "interests": [
@@ -390,7 +383,9 @@
                 "IA",
                 "Chat",
                 "Bot",
-                "Asistente"
+                "Asistente",
+                "Angular",
+                "Typescript"
             ],
             "url": "https://github.com/fmangom292/ChatBot"
         },
