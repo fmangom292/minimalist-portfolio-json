@@ -1,0 +1,47 @@
+---
+import Section from "./Section.astro";
+
+---
+
+<Section>
+    <button class="print-button" onclick="window.print()">!Pulsa aquí para imprimir este CV!</button>
+</Section>
+
+<style>
+    .print-button {
+        width: 100%;
+        display: block;
+        background-color: #f0f0f0;
+        padding: 1rem 2rem;
+        border: none;
+        border-radius: 0.5rem;
+        cursor: pointer;
+    }
+    .print-button:hover {
+        background-color: #777777;
+    }
+    .print-button:active {
+        background-color: #777;
+    }
+    .print-button:focus {
+        outline: none;
+    }
+    .print-button:disabled {
+        background-color: #999;
+        cursor: not-allowed;
+    }
+    .print-button:disabled:hover {
+        background-color: #999;
+    }
+    .print-button:disabled:active {
+        background-color: #999;
+    }
+    .print-button:disabled:focus {
+        outline: none;
+    }
+    @media print {
+        .print-button {
+            display: none;
+        }
+    }
+</style>
