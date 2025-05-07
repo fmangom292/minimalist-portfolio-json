@@ -1,0 +1,405 @@
+{
+    "basics": {
+        "name": "Fernando Manjón-Cabeza Gómez",
+        "label": "Front-End Developer | Angular | Passionate about technology and programming since always. Currently learning Full-Stack Angular - Node.js.",
+        "image": "https://avatars.githubusercontent.com/u/116214571",
+        "email": "fmangom292@gmail.com",
+        "phone": "690 39 02 13",
+        "url": "https://www.fmangom.es",
+        "summary": "Front-end developer with experience in Angular. I have been part of great teams where I have learned a lot and contributed my bit. I love technology and programming, and I am always willing to learn new things. Currently, I am learning Node.js and Java as backend technologies, as well as Astro and React as frontend to complete my Full-Stack training. I have a B2 driving license, own vehicle, and full geographic availability.",
+        "location": {
+            "address": "",
+            "postalCode": "14900",
+            "city": "Lucena",
+            "countryCode": "ES",
+            "region": "Córdoba"
+        },
+        "profiles": [
+            {
+                "network": "GitHub",
+                "username": "fmangom292",
+                "url": "https://github.com/fmangom292"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "fmangomcabeza",
+                "url": "https://www.linkedin.com/in/fmanjoncabeza/"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "CDI Sistemas",
+            "position": "Web Developer",
+            "url": "",
+            "startDate": "2024-06-01",
+            "endDate": "2024-08-01",
+            "summary": "Development of websites and online stores with Wordpress and Prestashop. My duties included developing new websites with Wordpress, creating web stores in Prestashop, maintaining and improving the comprehensive management system for SMEs, refactoring code, and unit testing.",
+            "highlights": [
+                "Development of new websites with Wordpress.",
+                "Creation of web stores in Prestashop.",
+                "Maintenance and improvement of the comprehensive management system for SMEs.",
+                "Code refactoring and unit testing."
+            ]
+        },
+        {
+            "name": "Proxya",
+            "position": "Web Developer",
+            "url": "",
+            "startDate": "2023-09-01",
+            "endDate": "2024-01-01",
+            "summary": "Development and maintenance of applications in Angular 16+. My duties included developing new components, maintaining and improving existing functionality, refactoring code, unit testing, and managing and resolving client-generated tickets to solve application issues.",
+            "highlights": [
+                "Development of new components in Angular 16+.",
+                "Maintenance and improvement of existing functionality.",
+                "Code refactoring and unit testing."
+            ]
+        },
+        {
+            "name": "NTT Data (Project: Orange)",
+            "position": "Web Developer",
+            "url": "",
+            "startDate": "2022-10-01",
+            "endDate": "2023-09-01",
+            "summary": "Development and maintenance of functionalities in the Orange employee panel. My duties included developing new functionalities (AngularJS / Angular 12), maintaining and updating existing components, refactoring code, unit testing, end-to-end (e2e) testing, and production deployments with a great team.",
+            "highlights": [
+                "Development of new functionalities (AngularJS / Angular 12).",
+                "Maintenance and updating of existing components.",
+                "Code refactoring and unit testing."
+            ]
+        },
+        {
+            "name": "Cima Cableados Industriales, S.L.",
+            "position": "Internal Web Application Developer",
+            "url": "",
+            "startDate": "2021-12-01",
+            "endDate": "2022-10-01",
+            "summary": "Maintenance and development of new functionalities for an internal web app. My duties included maintaining the internal web application (PHP, CodeIgniter 3), developing new functionalities for it while simultaneously developing custom applications (Angular + CodeIgniter 4), managing processes, delivery notes, orders, manufacturing orders, and production status, optimizing queries in the accounting system, and managing incidents and non-conformities.",
+            "highlights": [
+                "Maintenance of internal web application (PHP, CodeIgniter 3).",
+                "Development of new functionalities and creation of custom applications (Angular + CodeIgniter 4).",
+                "Process management, delivery notes, orders, manufacturing orders, and production status.",
+                "Optimization of queries in the accounting system.",
+                "Incident and non-conformity management."
+            ]
+        },
+        {
+            "name": "MLG Diseño, S.L.",
+            "position": "Web Application Developer (Internship)",
+            "url": "",
+            "startDate": "2019-05-01",
+            "endDate": "2021-06-01",
+            "summary": "Development and design of web applications and databases. My duties included database management and design, web design and frontend programming, backend development with PHP and Java, and the design and development of a mobile application with Ionic and PHP.",
+            "highlights": [
+                "Database management and design (MySQL).",
+                "Web design and frontend programming (HTML, CSS, JavaScript, Ionic, Angular).",
+                "Backend development with PHP and Java (SpringBoot).",
+                "Design and development of a mobile application with Ionic and PHP."
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "midu.dev",
+            "url": "https://midu.dev/",
+            "area": "Backend Development",
+            "studyType": "Online Course",
+            "startDate": "2024-11-01",
+            "endDate": "2024-11-15",
+            "score": "",
+            "courses": [
+                "NodeJS (5h)"
+            ]
+        },
+        {
+            "institution": "Udemy",
+            "url": "https://www.udemy.com/",
+            "area": "Backend Development",
+            "studyType": "Online Course",
+            "startDate": "2024-10-01",
+            "endDate": "2024-10-15",
+            "score": "",
+            "courses": [
+                "Spring Framework 6 & Spring Boot 3 (40.5h)"
+            ]
+        },
+        {
+            "institution": "Udemy",
+            "url": "https://www.udemy.com/",
+            "area": "Docker",
+            "studyType": "Online Course",
+            "startDate": "2024-09-01",
+            "endDate": "2024-09-15",
+            "score": "",
+            "courses": [
+                "Ultimate Docker (5.5h)"
+            ]
+        },
+        {
+            "institution": "Udemy",
+            "url": "https://www.udemy.com/",
+            "area": "Web Development",
+            "studyType": "Online Course",
+            "startDate": "2024-09-01",
+            "endDate": "2024-09-15",
+            "score": "",
+            "courses": [
+                "Wordpress Theme and Plugin Development (10.5h)"
+            ]
+        },
+        {
+            "institution": "Universidad de Málaga (UMA)",
+            "url": "https://www.uma.es/",
+            "area": "Computer Engineering",
+            "studyType": "Degree (Not completed)",
+            "startDate": "2019-09-01",
+            "endDate": "2021-06-01",
+            "score": "",
+            "courses": [
+                "Web page design",
+                "Database design and management",
+                "Object-oriented programming",
+                "Development with Angular and AngularJS"
+            ]
+        },
+        {
+            "institution": "I.E.S. Marqués de Comares",
+            "url": "",
+            "area": "Web Application Development",
+            "studyType": "Higher Vocational Training",
+            "startDate": "2017-09-01",
+            "endDate": "2019-06-01",
+            "score": "",
+            "courses": []
+        },
+        {
+            "institution": "I.E.S. Marqués de Comares",
+            "url": "",
+            "area": "Microcomputer Systems and Networks",
+            "studyType": "Intermediate Vocational Training",
+            "startDate": "2015-09-01",
+            "endDate": "2017-06-01",
+            "score": "",
+            "courses": []
+        }
+    ],
+    "awards": [
+        {
+            "title": "Award",
+            "date": "2014-11-01",
+            "awarder": "Company",
+            "summary": "There is no spoon."
+        }
+    ],
+    "certificates": [
+        {
+            "name": "B2 English",
+            "date": "",
+            "issuer": "Cambridge English",
+            "url": ""
+        }
+    ],
+    "publications": [
+        {
+            "name": "Publication",
+            "publisher": "Company",
+            "releaseDate": "2014-10-01",
+            "url": "https://publication.com",
+            "summary": "Description…"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Angular",
+            "level": "High",
+            "keywords": [
+                "Front-end",
+                "CSS",
+                "JavaScript",
+                "Typescript",
+                "e2e testing",
+                "Unit testing"
+            ]
+        },
+        {
+            "name": "Java",
+            "level": "Intermediate",
+            "keywords": [
+                "Back-end",
+                "Microservices",
+                "Server",
+                "Spring Boot",
+                "Unit testing",
+                "jUnit"
+            ]
+        },
+        {
+            "name": "Web Development",
+            "level": "High",
+            "keywords": [
+                "Front-end",
+                "Back-end",
+                "CSS"
+            ]
+        },
+        {
+            "name": "Node.js",
+            "level": "Intermediate",
+            "keywords": [
+                "Back-end",
+                "Express",
+                "JavaScript"
+            ]
+        },
+        {
+            "name": "MySQL",
+            "level": "High",
+            "keywords": [
+                "Database",
+                "Relational DB"
+            ]
+        },
+        {
+            "name": "PHP",
+            "level": "High",
+            "keywords": [
+                "Laravel",
+                "Back-end"
+            ]
+        },
+        {
+            "name": "TypeScript",
+            "level": "High",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]
+        },
+        {
+            "name": "Jira",
+            "level": "High",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]
+        },
+        {
+            "name": "Jest",
+            "level": "High",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]
+        },
+        {
+            "name": "JUnit",
+            "level": "High",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]
+        },
+        {
+            "name": "Jenkins",
+            "level": "High",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]
+        },
+        {
+            "name": "VSCode",
+            "level": "High",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]
+        },
+        {
+            "name": "Astro",
+            "level": "High",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]
+        },
+        {
+            "name": "Laravel",
+            "level": "High",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]
+        },
+        {
+            "name": "Express",
+            "level": "High",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]
+        },
+        {
+            "name": "Full-Stack",
+            "level": "High",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Spanish",
+            "fluency": "Native"
+        },
+        {
+            "language": "English",
+            "fluency": "B2"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Video games",
+            "keywords": [
+                "Development"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "Jane Doe",
+            "reference": "Reference…"
+        }
+    ],
+    "projects": [
+        {
+            "name": "Chat-bot",
+            "startDate": "2025-02-20",
+            "endDate": "2025-02-25",
+            "description": "Small app to investigate the use of AI models in web applications, the special thing about this small project is that the model is loaded on the client, so a large server is not needed for its operation.",
+            "highlights": [
+                "AI",
+                "Chat",
+                "Bot",
+                "Assistant",
+                "Angular",
+                "Typescript"
+            ],
+            "url": "https://github.com/fmangom292/ChatBot"
+        },
+        {
+            "name": "Minimalist CV",
+            "startDate": "2025-03",
+            "endDate": "2025-02",
+            "description": "Page created with Astro to display a minimalist and simple CV editable only by modifying a JSON file, with a clean and clear design, and with the possibility of downloading it in PDF.",
+            "highlights": [
+                "CV",
+                "Minimalist",
+                "Easy to edit",
+                "Astro"
+            ],
+            "url": "https://github.com/fmangom292/ChatBot"
+        }
+    ]
+}

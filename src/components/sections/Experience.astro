@@ -11,8 +11,8 @@
     {
         work.map(({ name, position, highlights, startDate, endDate, summary}) => {
             
-            const startyear = new Date(startDate).getFullYear()
-            const endyear = endDate !== null ? new Date(endDate).getFullYear() : "Actualmente"
+            const startyear = (new Date(startDate).getMonth() + 1) + '/' + new Date(startDate).getFullYear()
+            const endyear = (endDate !== null && endDate.length > 0) ? (new Date(startDate).getMonth() + 1) + '/' + new Date(endDate).getFullYear() : "Actualmente"
             const years = `${startyear} - ${endyear}`
 
             return (

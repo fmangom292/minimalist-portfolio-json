@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "astro": "^5.4.2",
+    "nanostores": "^0.11.4",
     "ninja-keys": "^1.2.2"
   }
 }
