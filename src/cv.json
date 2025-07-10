@@ -6,7 +6,7 @@
         "email": "fmangom292@gmail.com",
         "phone": "690 39 02 13",
         "url": "https://www.fmangom.es",
-        "summary": "Desarrollador Front-end con experiencia en Angular. He formado parte de grandes equipos con los que he aprendido mucho y he aportado mi granito de arena. Me encanta la tecnología y la programación, y siempre estoy dispuesto a aprender cosas nuevas. Actualmente estoy aprendiendo Node.js y Java como tecnologías de backend, a la vez que Astro y React como frontend para completar mi formación Full-Stack. Poseo permiso de conducir B2, vehículo propio y disponibilidad geográfica completa.",
+        "summary": "Desarrollador Front-end con experiencia en Angular. He formado parte de grandes equipos con los que he aprendido mucho y he aportado mi granito de arena. Me encanta la tecnología y la programación, y siempre estoy dispuesto a aprender cosas nuevas. Actualmente estoy aprendiendo React y Python como tecnologias FullStack en el Bootcamp FullStack Developers de 4GeeksAcademy. Poseo permiso de conducir B2, vehículo propio y disponibilidad geográfica completa.",
         "location": {
             "address": "",
             "postalCode": "14900",
@@ -34,9 +34,9 @@
             "url": "",
             "startDate": "2024-06-01",
             "endDate": "2024-08-01",
-            "summary": "Desarrollo de sitios web y tiendas online con Wordpress y Prestashop. Entre mis funciones destacan el desarrollo de nuevos sitios web con Wordpress, la creación de tiendas web en Prestashop, el mantenimiento y mejora del sistema integral de gestión para PYMES, la refactorización de código y pruebas unitarias.",
+            "summary": "Entre mis funciones destacan el desarrollo de nuevos sitios web con WordPress, la creación de tiendas online en PrestaShop, el mantenimiento y mejora del sistema integral de gestión para pymes, la refactorización de código y la realización de pruebas unitarias.",
             "highlights": [
-                "Desarrollo de nuevos sitios web con Wordpress.",
+                "Desarrollo de nuevos sitios web con WordPress.",
                 "Creación de tiendas web en Prestashop.",
                 "Mantenimiento y mejora del sistema integral de gestión para PYMES.",
                 "Refactorización de código y pruebas unitarias."
@@ -93,7 +93,7 @@
             "highlights": [
                 "Gestión y diseño de bases de datos (MySQL).",
                 "Diseño web y programación frontend (HTML, CSS, JavaScript, Ionic, Angular).",
-                "Desarrollo backend con PHP y Java (SpringBoot).",
+                "Desarrollo backend con PHP.",
                 "Diseño y desarrollo de una aplicación móvil con Ionic y PHP."
             ]
         }
@@ -156,7 +156,7 @@
             "endDate": "2024-09-15",
             "score": "",
             "courses": [
-                "Desarrollo de Temas y Plugins de Wordpress (10.5h)"
+                "Desarrollo de Temas y Plugins de WordPress (10.5h)"
             ]
         },
         {
@@ -246,6 +246,15 @@
                 "jUnit"
             ]
         },
+                {
+            "name": "WordPress",
+            "level": "Alto",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]
+        },
+
         {
             "name": "Desarrollo Web",
             "level": "Alto",
@@ -278,6 +287,38 @@
             "keywords": [
                 "Laravel",
                 "Back-end"
+            ]
+        },
+        {
+            "name": "HTML",
+            "level": "Alto",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]
+        },
+        {
+            "name": "CSS",
+            "level": "Alto",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]
+        },
+                {
+            "name": "SASS",
+            "level": "Alto",
+            "keywords": [
+                "Node.js",
+                "Angular"
+            ]
+        },
+        {
+            "name": "SCSS",
+            "level": "Alto",
+            "keywords": [
+                "Node.js",
+                "Angular"
             ]
         },
         {
@@ -390,7 +431,7 @@
             "name": "Chat-bot",
             "startDate": "2025-02",
             "endDate": "2025-02",
-            "description": "Pequeña app para investigar el uso de modelos IA en aplicaciones web, lo especial de este pequeño proyecto es que el modelo se carga en el cliente, por lo que no se necesita un gran servidor para su funcionamiento",
+            "description": "Aplicación web desarrollada para investigar el uso de modelos de IA en el cliente, eliminando la necesidad de un servidor potente para su funcionamiento.",
             "highlights": [
                 "IA",
                 "Chat",
