@@ -7,9 +7,15 @@
      {
          education.map(({ institution, url, area, studyType, startDate, endDate, courses}) => {
              
-            const startyear = (new Date(startDate).getMonth() + 1) + '/' + new Date(startDate).getFullYear()
-            const endyear = (endDate !== null && endDate.length > 0) ? (new Date(startDate).getMonth() + 1) + '/' + new Date(endDate).getFullYear() : "Actualmente"
-            const years = `${startyear} - ${endyear}`
+            const formatDate = (date: string) => {
+                const d = new Date(date);
+                const month = String(d.getMonth() + 1).padStart(2, '0');
+                const year = String(d.getFullYear()).slice(-2);
+                return `${month}/${year}`;
+            };
+            const startyear = formatDate(startDate);
+            const endyear = (endDate !== null && endDate.length > 0) ? formatDate(endDate) : "Actualmente";
+            const years = `${startyear} - ${endyear}`;
  
              return (
                  <li>
